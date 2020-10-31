@@ -25,12 +25,12 @@ Please find the training logs:
 
 Epoch: 01 | Time: 0m 19s
 
-	Train Loss: 4.239 | Train PPL:  69.360
-	 Val. Loss: 3.019 |  Val. PPL:  20.472
+ Train Loss: 4.239 | Train PPL:  69.360
+ Val. Loss: 3.019 |  Val. PPL:  20.472
 	 
 	 
 Epoch: 02 | Time: 0m 19s
-	Train Loss: 2.811 | Train PPL:  16.619
+	 Train Loss: 2.811 | Train PPL:  16.619
 	 Val. Loss: 2.293 |  Val. PPL:   9.903
 	 
 Epoch: 03 | Time: 0m 19s
