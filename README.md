@@ -24,7 +24,6 @@ Please find the training logs:
 
 
 Epoch: 01 | Time: 0m 19s
-
  Train Loss: 4.239 | Train PPL:  69.360
  Val. Loss: 3.019 |  Val. PPL:  20.472
 	 
