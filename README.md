@@ -66,10 +66,6 @@ Epoch: 10 | Time: 0m 19s
 	 Val. Loss: 1.642 |  Val. PPL:   5.164
 
 
-Results are as below:
-
-![](https://github.com/EVA4Phase2Work/Session11_Attention/blob/main/Images/Encoder.png)
-
 
 Inference output can be found at:
 
